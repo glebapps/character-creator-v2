@@ -1,4 +1,6 @@
 .controlPane {
+  position: relative;
+  z-index: 1;
   padding: 24px;
   /* Optical centering */
   padding-top: 18px;

@@ -12,6 +12,10 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+
+  @media screen and (max-width: 900px) {
+    max-width: 350px;
+  }
 }
 
 .title {
